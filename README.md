@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm saisri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **dsa**
 
-- 💬 Ask me about **python, html, css, javascript,sql**
+- 💬 Ask me about **python, html, css, javascript, sql, django, docker**
 
 - 📫 How to reach me **saisribeerelli@gmail.com**
 
